@@ -5,7 +5,8 @@ The additional feature added was a button to export product data to a CSV.
 
 ## Project Installation and Setup Instructions
 Clone down the repository. You will need `node` and `npm` installed globally on your machine.
-The following two commands must be perfomed in both the `frontend` directory and the `backend` directory
+The following two commands must be perfomed in both the `frontend` directory and the `backend` directory.
+
 Installation:
 `npm install`  
 To Start Server:
